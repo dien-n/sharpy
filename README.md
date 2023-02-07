@@ -1,5 +1,7 @@
 # Sharpy
 
+[![Sharpy](https://static.dien-n.com/c/sharpy-version.svg)](https://github.com/dien-n/sharpy)
+
 **Sharpy** is a minimal theme for [Vim](https://www.vim.org/).
 
 ## License
